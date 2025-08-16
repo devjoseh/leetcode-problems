@@ -14,12 +14,13 @@ As soluções são organizadas em pastas de acordo com o nível de dificuldade d
 /
 ├── 🟢 Easy/
 │   └── 1. Two Sum/
-│       └── solution.py
+│       └── main.py
 ├── 🟠 Medium/
 │   └── 129. Sum Root to Leaf Numbers/
 │       └── main.py
 └── 🔴 Hard/
-    └── ...
+    └── 42. Trapping Rain Water
+        └── main.py
 ```
 
 Dentro de cada pasta de dificuldade, cada problema possui seu próprio diretório, nomeado com o número e o título do problema para fácil identificação.
